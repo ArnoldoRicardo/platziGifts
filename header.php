@@ -17,6 +17,6 @@
     </div>
 </header>
 
-<nav class="navbar sticky-top navbar-light bg-dark">
+<nav class="navbar sticky-top navbar-light bg-dark menu">
   <a class="navbar-brand" href="#">Sticky top</a>
 </nav>
