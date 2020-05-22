@@ -1,4 +1,5 @@
-<?php get_header(  ) ?>
+<?php get_header()?>
+<div class="inicio">
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio cum earum quis enim explicabo ut veritatis similique et quae praesentium illum, laudantium adipisci eius architecto hic molestias soluta incidunt quia.</p>
 <p>Rem ex deserunt sint dolorem, quo nesciunt ducimus necessitatibus cumque ut. Voluptatibus quasi consequatur nulla deserunt alias quae adipisci eos rerum, beatae quam suscipit ipsa odio eaque nostrum aperiam ipsum.</p>
 <p>Cupiditate necessitatibus explicabo, eum id quaerat voluptatem a neque doloribus nihil architecto assumenda exercitationem blanditiis ducimus adipisci distinctio, illo ratione ex, nulla error veritatis accusantium aperiam. Porro dolore quod inventore.</p>
@@ -19,4 +20,5 @@
 <p>Pariatur cupiditate officia esse quo blanditiis quasi asperiores enim? Ea unde, incidunt odio ex, debitis veritatis tenetur, sed pariatur saepe dignissimos praesentium maxime accusamus. Aperiam culpa amet ut tempora praesentium!</p>
 <p>Neque molestiae officia doloremque nemo iure, dicta voluptatibus exercitationem cumque! Voluptas eos adipisci autem sint beatae ea quam, a, ipsum minima officiis hic quo exercitationem ut nemo totam tempore culpa?</p>
 <p>Unde repellat perspiciatis at reiciendis sequi, doloremque nostrum culpa libero molestiae quam excepturi labore porro voluptas iusto voluptatibus. Doloremque tempore itaque minima dignissimos exercitationem dicta, illum numquam nobis aspernatur ipsa!</p>
-<?php get_footer(  ) ?>
+</div>
+<?php get_footer()?>

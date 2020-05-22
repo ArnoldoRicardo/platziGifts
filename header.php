@@ -29,6 +29,14 @@
     </div>
 </header>
 
-<nav class="navbar sticky-top navbar-light bg-dark menu">
+<!-- <nav class="navbar sticky-top navbar-light bg-dark menu">
   <a class="navbar-brand" href="#">Sticky top</a>
-</nav>
+    <?php wp_nav_menu(
+        array(
+            'theme_location' => 'top_menu',
+            'menu_class'    => 'menu-principal',
+            'container_class'   => 'container-menu'
+        )
+    ); 
+    ?>
+</nav> -->

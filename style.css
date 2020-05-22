@@ -33,6 +33,10 @@ ul {
 }
 header {
   background-color: #1c3643;
+  overflow: hidden;
+  position: fixed;
+  top: 30px;
+  width: 100%;
 }
 header nav li {
   list-style: none;
@@ -67,6 +71,6 @@ footer p {
   color: #000;
 }
 
-.menu {
-  padding-top: 30px;
+main {
+  margin-top: 75px;
 }
